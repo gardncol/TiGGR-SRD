@@ -89,3 +89,5 @@
 Use this system in your own games, zines, hacks, and modules.  
 **Credit: “This game uses the TiGGR system, originally designed by The Grey Ledger Society.”**  
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+[![Powered by TiGGR](https://img.shields.io/badge/Powered%20by-TiGGR-red?style=flat-square)](https://github.com/eeronomicon/TiGGR-SRD)
